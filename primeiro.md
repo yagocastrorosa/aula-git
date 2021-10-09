@@ -13,7 +13,7 @@
 
 '''c
 int main(void){
-    printf("Olá mundo");
+    printf("Olá Yago");
     return 0;
 }
 '''
