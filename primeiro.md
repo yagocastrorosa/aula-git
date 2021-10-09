@@ -8,6 +8,9 @@
 
 ## Aprendendo ramos
 
+1. Criando ramos
+2. Chaveando entre ramos
+3. Mesclando ramos
 
 ## Código na linguagem C
 
