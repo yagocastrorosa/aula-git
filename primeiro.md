@@ -14,3 +14,9 @@
 
 ## Código na linguagem C
 
+'''c
+int main(void){
+    printf("Olá Yago");
+    return 0;
+}
+'''
